@@ -1,0 +1,20 @@
+{
+  "name": "react-up",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-router": "^4.2.0"
+  },
+  "scripts": {
+    "server": "cd server && json-server db.json -w -p 3000",
+    "start": "roadhog server"
+  }
+}
