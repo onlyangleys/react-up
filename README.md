@@ -1,2 +1,2 @@
 # react-up
-Myself react start and up
+react start and study
