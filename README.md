@@ -1,2 +1,2 @@
 # react-up
-react start and study
+Vue management tool based on v3.0
