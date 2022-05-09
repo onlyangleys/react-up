@@ -1,1 +1,17 @@
-/.idea/
+.idea/
+logs/
+dist/
+node_modules/
+
+# local env filed
+.env.local
+.env.*.local
+
+# OS generated files #  
+.DS_Store  
+.DS_Store?  
+._*  
+.Spotlight-V100  
+.Trashes
+ehthumbs.db  
+Thumbs.db 
