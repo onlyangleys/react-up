@@ -31,7 +31,7 @@ let REGEX = {
         msg: "格式:手机号码",
     },
     mobileNum: {
-        ping: /^\d{1,16}$/,
+        ping: /^\d{1,20}$/,
         msg: "格式:数字号码",
     },
     date10: {
